@@ -1,7 +1,7 @@
 # Problem 1: Insert an element at end of array
 
 **Problem Link:**  
-https://www.geeksforgeeks.org/problems/insert-an-element-at-the-end-of-an-array
+https://www.geeksforgeeks.org/dsa/insert-element-at-the-end-of-an-array/
 
 ## Problem Statement
 Given an array of integers, the task is to insert an element at the end of the array.
