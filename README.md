@@ -44,4 +44,6 @@ All problems are solved in both **C** and **Python**, and include:
 
 - **Name:** Soumili Saha
 - **Roll Number:** 72
-- **Class:** AIML 2A
+- **Class:** 2nd Year, Section A
+- **University:** University of Engineering and Management
+- **Course:** B.Tech in Computer Science & Engineering (AI & ML)
