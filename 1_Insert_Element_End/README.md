@@ -7,8 +7,8 @@ https://www.geeksforgeeks.org/problems/insert-an-element-at-the-end-of-an-array
 Given an array of integers, the task is to insert an element at the end of the array.
 
 ## Constraints
-1 ≤ arr.size() ≤ 10^5
-0 ≤ element, arr[i] ≤ 10^6
+- 1 ≤ arr.size() ≤ 10^5
+- 0 ≤ element, arr[i] ≤ 10^6
 
 ---
 
