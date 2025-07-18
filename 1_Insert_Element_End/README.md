@@ -15,7 +15,7 @@ Given an array of integers, the task is to insert an element at the end of the a
 ## Code
 
 ### ✅ C Code
-Filename: `solution.c`
+Filename: [`solution.c`](./solution.c)
 
 ```c
 #include <stdio.h>
@@ -55,7 +55,7 @@ int main(){
 ---
 
 ### ✅ Python Code
-Filename: `solution.py`
+Filename: [`solution.py`](./solution.py)
 
 ```python
 arr = list(map(int, input("Enter array elements: ").split()))
