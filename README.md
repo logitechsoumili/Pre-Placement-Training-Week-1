@@ -40,8 +40,8 @@ All problems are solved in both **C** and **Python**, and include:
 
 ---
 
-### 👩‍💻 Author
+### 📚 Submitted By
 
 - **Name:** Soumili Saha
-- **University:** University of Engineering and Management
-- **Course:** BTech CSE (AI & ML)
+- **Roll Number:** 72
+- **Class:** AIML 2A
