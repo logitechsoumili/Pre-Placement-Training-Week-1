@@ -32,7 +32,7 @@ All problems are solved in both **C** and **Python**, and include:
 | 3           | Find Second Largest Element         | [3_Second_Largest_Element](./3_Second_Largest_Element) |
 | 4           | Move All Zeros to End               | [4_Move_All_Zeros_End](./4_Move_All_Zeros_End) |
 | 5           | Rotate Array by One                 | [5_Rotate_Array_By_One](./5_Rotate_Array_By_One) |
-| 6           | Check if Array is Sorted & Rotated  | [6_Check_Array_Sorted_Rotated](./6_Check_Array_Sorted_Rotated) |
+| 6           | Check if Array is Sorted            | [6_Check_Array_Sorted](./6_Check_Array_Sorted) |
 | 7           | Reverse a String                    | [7_Reverse_String](./7_Reverse_String) |
 | 8           | Check if String is Palindrome       | [8_Check_String_Palindrome](./8_Check_String_Palindrome) |
 | 9           | Count Frequency of Array Elements   | [9_Count_Frequency_Array](./9_Count_Frequency_Array) |
