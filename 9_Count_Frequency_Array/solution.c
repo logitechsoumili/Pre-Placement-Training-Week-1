@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 int main(){
 	int n;
@@ -13,7 +14,7 @@ int main(){
 
 	int *res = calloc(n, sizeof(int));
 	for (int i = 0; i < n; i++){
-		res[arr[i] - 1] += 1
+		res[arr[i] - 1] += 1;
 	}
 
 	printf("Result: ");
