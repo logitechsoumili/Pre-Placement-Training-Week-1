@@ -8,7 +8,6 @@ int main(){
 	int len = strlen(s);
 	char rev[len + 1];
 
-	
 	for (int i = 0; i < len; i++){
 		rev[i] = s[len - 1 - i];
 	}
